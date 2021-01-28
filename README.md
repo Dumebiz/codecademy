@@ -3,7 +3,7 @@
 
 ### **REM-383423**
 
-####- a. RCA Details:
+#### - a. RCA Details:
 Reporter requests an instance type upgrade with to work with Faster Epic.
 
 - b. Solution:

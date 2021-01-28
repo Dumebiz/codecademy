@@ -2,6 +2,7 @@
 ## rc-saas-dumebiumezinne-0125
 
 ### **REM-383423**
+
 #### a. RCA Details:
 Reporter requests an instance type upgrade with to work with Faster Epic.
 

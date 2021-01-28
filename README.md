@@ -1,12 +1,12 @@
 # codecademy
-## rc-saas-dumebiumezinne-0125
+## ac-milan-ricardokaka-419
 
-### **REM-383423**
+### **ACM-41212**
 
-- #### a. RCA Details:
-   Reporter requests an instance type upgrade with to work with Faster Epic.
+- #### a. CAM Details:
+   Reporter requests an instance type upgrade with to work with Costacurta.
 
 - #### b. Solution:
-   Please find the solution to this ticket in runbook below:
+   Please find the solution to this bucket in notebook below:
    
-   https://confluence.devfactory.com/pages/viewpage.action?pageId=304335912
+   https://cnn.com/

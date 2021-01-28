@@ -3,9 +3,9 @@
 
 ### **REM-383423**
 
-- #### RCA Details:
-Reporter requests an instance type upgrade with to work with Faster Epic.
+- #### a. RCA Details:
+...Reporter requests an instance type upgrade with to work with Faster Epic.
 
-- #### Solution:
-Please find the solution to this ticket in runbook below:
+- #### b. Solution:
+...Please find the solution to this ticket in runbook below:
 https://confluence.devfactory.com/pages/viewpage.action?pageId=304335912

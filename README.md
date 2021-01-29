@@ -21,6 +21,5 @@
 Please see tactics:
 
 + attaquante.conf
++ centrocampista.bat
 + defensiori.secrets
-
-     

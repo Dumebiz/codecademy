@@ -1,0 +1,21 @@
+## rc-saas-dumebiumezinne-0125
+
+### PR: **REM-383561 List groups under a Devfactory AD account**
+
+- #### a. RCA Details:
+   Request to provide user's group membership.
+
+- #### b. Solution:
+   Please find the solution to this ticket in the playbook below:
+
+   https://confluence.devfactory.com/display/SAASOPS/List+groups+under+a+Devfactory+AD+account
+
+- #### c. Proof of Job Completion:
+   Please click on either link below to see list of groups:
+
+   - [Screenshot](https://drive.google.com/file/d/1FP1CcbKbQR0AGtxd-e0ygn_u4LNwpc_h/view?usp=sharing)
+
+   - [CSV file](./josefsolek-groups.csv)
+
+
+### END
